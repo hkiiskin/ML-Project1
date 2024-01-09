@@ -1,4 +1,4 @@
-# Machine Learning Project1
+# Machine Learning Project1, S&P 500 stock data
 
 ## Dataset:
 S&P 500 stock data, historical stock data for all current S&P 500 companies. [https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset](https://www.kaggle.com/datasets/camnugent/sandp500)
